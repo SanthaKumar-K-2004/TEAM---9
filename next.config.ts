@@ -26,7 +26,6 @@ const nextConfig: NextConfig = {
       '@radix-ui/react-switch',
     ],
   },
-  output: 'export',
   images: {
     unoptimized: true,
   },
